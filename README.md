@@ -1,0 +1,1 @@
+# Fake_news_checker.py
